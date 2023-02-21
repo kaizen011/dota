@@ -1,1 +1,1 @@
-# Landing page 101
+# Landing template page for any use you'd like
